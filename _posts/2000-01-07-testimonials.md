@@ -3,6 +3,7 @@ title: "Testimonials"
 bg: turquoise
 color: white
 fa-icon: star
+sitemap: false
 ---
 
 Coming up - we can use existing testimonials from PDF Tools and ZNK Customers

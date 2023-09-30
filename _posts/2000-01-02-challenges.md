@@ -3,6 +3,7 @@ title: "Challenges"
 bg: blue
 color: white
 fa-icon: check-square-o
+sitemap: false
 ---
 
 #### It doesn't have to be this hard

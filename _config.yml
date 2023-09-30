@@ -1,8 +1,8 @@
 ---
 
-port: 4000
-host: 0.0.0.0
-safe: false
+# port: 4000
+# host: 0.0.0.0
+# safe: false
 
 
 ### site serving configuration ###
@@ -14,9 +14,9 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "SinglePaged - Simple Jekyll template"
-keywords:    "SinglePaged, jekyll, template, github, blog, single page"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+title:       "SAP Document Stream"
+keywords:    "SAP, Document Management, PDF Conversion, Automated Workflow, Batch Processing, Digital Signatures, PDF Stamping, PDF Dossiers, GDPR Compliance, Data Security, Cyber-Security, ERP, S/4HANA, Swiss Engineering, Cost Savings, Operational Efficiency, OAuth2 Authentication"
+description: "Unlock unprecedented efficiency in SAP document management with SAP Document Stream. Automated workflows, PDF conversions, GDPR compliance, and advanced security features in one seamless solution."
 source_link: "https://www.znk.lu/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
@@ -35,4 +35,8 @@ colors:
 
 kramdown:
   auto_ids:  false
+
+url: "https://harryf.github.io/znkpdftools/"
+plugins:
+  - jekyll-sitemap
 
