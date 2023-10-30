@@ -12,6 +12,8 @@ sitemap: false
 
 Managing documents in SAP environments is no small feat. The complexity and issues are multifold, affecting both operational efficiency and compliance.
 
+![Challenges in SAP Document Management](img/znkpdftools-2.png){:class="img-responsive"}
+
 {: .left}
 ### Costly Manual Processes
 
